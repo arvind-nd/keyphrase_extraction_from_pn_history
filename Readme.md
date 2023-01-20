@@ -7,10 +7,6 @@ When you visit a doctor, how they interpret your symptoms can determine whether 
 | model_name                 | score  |
 |:--------------------------:|:------:|
 | bert-base-uncased          | 0.7762 |
-|:--------------------------:|:------:|
 | microsoft/deberta-base     | 0.8260 |
-|:--------------------------:|:------:|
 | roberta-large              | 0.8662 |
-|:--------------------------:|:------:|
-| microsoft/deberta-v3-large | *0.8733|
-|:--------------------------:|:------:|
+| microsoft/deberta-v3-large | **0.8733**|
