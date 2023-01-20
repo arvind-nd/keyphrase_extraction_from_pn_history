@@ -10,3 +10,12 @@ When you visit a doctor, how they interpret your symptoms can determine whether 
 | microsoft/deberta-base     | 0.8260 |
 | roberta-large              | 0.8662 |
 | microsoft/deberta-v3-large | **0.8733**|
+
+
+## Example (Inference)
+I deployed this model on Hugging Face - Spaces. You can play with this model here - [https://huggingface.co/spaces/arvind-nd/extracting-key-phrases](https://huggingface.co/spaces/arvind-nd/extracting-key-phrases).
+
+![example_one](images/Screenshot_20230120_205908.png)
+![example_two](images/Screenshot_20230120_210037.png)
+![example_three](images/Screenshot_20230120_210129.png)
+![example_four](images/Screenshot_20230120_210912.png)
