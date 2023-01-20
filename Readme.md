@@ -13,7 +13,7 @@ When you visit a doctor, how they interpret your symptoms can determine whether 
 
 
 ## Example (Inference)
-I deployed this model on Hugging Face - Spaces. You can play with this model here - [https://huggingface.co/spaces/arvind-nd/extracting-key-phrases](https://huggingface.co/spaces/arvind-nd/extracting-key-phrases).
+I deployed roberta-large model on Hugging Face - Spaces. You can play with this model here - [https://huggingface.co/spaces/arvind-nd/extracting-key-phrases](https://huggingface.co/spaces/arvind-nd/extracting-key-phrases).
 
 Here are some of examples:-
 ![example_one](images/Screenshot_20230120_205908.png)
